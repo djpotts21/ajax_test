@@ -9,8 +9,4 @@ function getData(cb) {
     }
 }
 
-function printDataToConsole(data) {
-    console.log(data);
-}
 
-getData(printDataToConsole);
